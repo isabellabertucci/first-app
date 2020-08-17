@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="text_write">Escreva algo</string>
+    <string name="text_write_top">Escreva algo acima</string>
+    <string name="text_write_confirm">confirmar</string>
+    <string name="text_write_clear">Limpar</string>
+</resources>
